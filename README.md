@@ -7,11 +7,6 @@ I’m a fourth-year Computer Science student at the University of South Florida,
 
 - 💻 Currently learning about Machine Learning and AI
 
-- [Instagram](https://www.instagram.com/swerikcodes/)
-- [TikTok](https://www.tiktok.com/@swerikcodes)
-- [YouTube](https://www.youtube.com/channel/UCgKFOz_KrMbmypWrawtzDQg)
-
-
 ## 🌐 Connect with me:
 [![LinkedIn](https://www.linkedin.com/in/shameershahid/)
 
