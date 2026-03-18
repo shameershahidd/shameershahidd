@@ -5,7 +5,7 @@ I'm a fourth-year Computer Science student at the University of South Florida, p
 
 ## What I'm Up To
 - Currently learning about Machine Learning and AI
-- 🔬 Working as a Research Assistant at the Secure and Intelligent Systems Lab at USF, conducting computer vision research on AI-driven face recognition and behavioral analysis systems
+- Working as a Research Assistant at the Secure and Intelligent Systems Lab at USF, conducting computer vision research on AI-driven face recognition and behavioral analysis systems
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shameershahid/)
@@ -16,6 +16,7 @@ Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
