@@ -1,13 +1,13 @@
-<h1 align="center">Hey 👋 I'm Shameer Sheikh</h1>
+<h1 align="center">Hey I'm Shameer Sheikh</h1>
 
-# 💫 About Me:
+# About Me:
 I’m a fourth-year Computer Science student at the University of South Florida, passionate about building impactful software and exploring the intersections of coding, AI/ML, and full-stack development. I enjoy turning ideas into real-world applications and constantly learning new tools and technologies
 
-## 🚀 What I'm Up To
+## What I'm Up To
 
-- 💻 Currently learning about Machine Learning and AI
+- Currently learning about Machine Learning and AI
 
-## 🌐 Connect with me:
+## Connect with me:
 [![LinkedIn](https://www.linkedin.com/in/shameershahid/)
 
 # 💻 Tech Stack:
