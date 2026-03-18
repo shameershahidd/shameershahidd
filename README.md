@@ -1,16 +1,16 @@
 <h1 align="center">Hey, I'm Shameer Sheikh!</h1>
 
-# About Me:
+# About Me
 I'm a fourth-year Computer Science student at the University of South Florida, passionate about building impactful software and exploring the intersections of coding, AI/ML, and full-stack development. I enjoy turning ideas into real-world applications and constantly learning new tools and technologies
 
 ## What I'm Up To
 - Currently learning about Machine Learning and AI
 - Working as a Research Assistant at the Secure and Intelligent Systems Lab at USF, conducting computer vision research on AI-driven face recognition and behavioral analysis systems
 
-## Connect with me:
+## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shameershahid/)
 
-# Tech Stack:
+# Tech Stack
 
 Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
