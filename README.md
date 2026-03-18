@@ -1,4 +1,4 @@
-<h1 align="center">Hey I'm Shameer Sheikh</h1>
+<h1 align="center">Hey, I'm Shameer Sheikh!</h1>
 
 # About Me:
 I’m a fourth-year Computer Science student at the University of South Florida, passionate about building impactful software and exploring the intersections of coding, AI/ML, and full-stack development. I enjoy turning ideas into real-world applications and constantly learning new tools and technologies
