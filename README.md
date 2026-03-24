@@ -6,7 +6,7 @@ I'm a Computer Science student with a minor in Psychology at the University of S
 ## What I'm Up To
 - Currently interning at SamSearch, building integrations with CRMs and productivity tools
 - Conducting computer vision research at Secure and Intelligent Systems Lab, working on AI-driven face recognition and behavioral analysis systems
-- Learning more about machine learning, deep learning, and distributed systems
+- Learning more about machine learning, AI, and distributed systems
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shameershahid/)
