@@ -1,17 +1,17 @@
 <h1 align="center">Hey, I'm Shameer Sheikh!</h1>
 
 # About Me
-I'm a fourth-year Computer Science student at the University of South Florida, passionate about building impactful software and exploring the intersections of coding, AI/ML, and full-stack development. I enjoy turning ideas into real-world applications and constantly learning new tools and technologies
+I'm a Computer Science student with a minor in Psychology at the University of South Florida. I'm currently a Software Engineer Intern at SamSearch and a Research Assistant at USF's Secure and Intelligent Systems Lab. I work primarily in Java, Python, C++, and JavaScript, with a growing focus in AI/ML.
 
 ## What I'm Up To
-- Currently learning about Machine Learning and AI
-- Working as a Research Assistant at the Secure and Intelligent Systems Lab at USF, conducting computer vision research on AI-driven face recognition and behavioral analysis systems
+- Currently interning at SamSearch, building integrations with CRMs and productivity tools
+- Conducting computer vision research at USF's Secure and Intelligent Systems Lab, working on AI-driven face recognition and behavioral analysis systems
+- Learning more about machine learning, deep learning, and distributed systems
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shameershahid/)
 
 # Tech Stack
-
 Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
